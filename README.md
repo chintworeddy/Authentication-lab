@@ -10,8 +10,8 @@ A backend authentication application developed using Node.js, Express.js, SQLite
 |---|---|
 | Lab Number | Lab 04 |
 | Lab Title | Registration, Login and JWT Authentication |
-| Student Name | Mahalaxmi Vennela |
-| Registration Number | 252U1R1257 |
+| Student Name | vaddireddy Bhanu prakash reddy |
+| Registration Number | 252U1R1247 |
 | Section | CSE-2E |
 | Course | Backend Development Fundamentals |
 | Programme | B.Tech – Computer Science and Engineering |
@@ -26,7 +26,7 @@ A backend authentication application developed using Node.js, Express.js, SQLite
 
 | Platform | Link |
 |---|---|
-| GitHub Repository | https://github.com/vennelamaha1522-hash/Backend-Development-Labs |
+| GitHub Repository | https://github.com/chintworeddy/Authentication-lab/upload |
 | Lab Folder | `lab-04` |
 | Local API Base URL | http://localhost:3000 |
 | Server Check | GET http://localhost:3000/ |
@@ -862,8 +862,8 @@ Overall, this lab improved my practical understanding of backend development, da
 
 ---
 
-**Submitted By:** Mahalaxmi Vennela  
-**Registration Number:** 252U1R1257  
+**Submitted By:**Vaddi Reddy Bhanu Prakash Reddy
+**Registration Number:** 252U1R1247  
 **Section:** CSE-2E  
 **Course:** Backend Development Fundamentals  
 **Lab:** 04 – Registration, Login and JWT Authentication
